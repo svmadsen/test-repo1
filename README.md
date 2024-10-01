@@ -1,3 +1,3 @@
 # test-repo1
-Testing basic fetures
+Testing basic features
 1
